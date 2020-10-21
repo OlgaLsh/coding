@@ -8,26 +8,28 @@ namespace Distance
 {
     struct Distance
     {
-        public int A;
-        public int B;
-        public int C;
+        public int feet;
+        public int inch;
     }
     class Program
     {
         static void Main(string[] args)
         {
+            Distance A;
+            Distance B;
+            Distance C;
+
             Console.WriteLine("Введите значение A сначала в футах, затем в дюймах:");
-            int f = Convert.ToInt32(Console.ReadLine());
-            int d = Convert.ToInt32(Console.ReadLine());
-            int A = f * 12 + d;
+            A.feet = Convert.ToInt32(Console.ReadLine());
+            A.inch = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите значение B сначала в футах, затем в дюймах:");
-            int f1 = Convert.ToInt32(Console.ReadLine());
-            int d1 = Convert.ToInt32(Console.ReadLine());
-            int B = f1 * 12 + d1;
-            int C = A + B;
-            int C1 = C / 12;
-            int C2 = C % 12;
-            Console.WriteLine(C1 + "'" +"-" + C2 + " '' " );
+            B.feet = Convert.ToInt32(Console.ReadLine());
+            B.inch = Convert.ToInt32(Console.ReadLine());
+            C.feet = A.feet + B.feet;
+            C.inch = A.inch + B.inch;
+            C.feet = C.feet + (C.inch / 12);
+            C.inch = C.inch % 12;
+            Console.WriteLine("C = {0}\'-{1}\"", C.feet, C.inch);
         }
     }
 }
