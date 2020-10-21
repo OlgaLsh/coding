@@ -1,0 +1,7 @@
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Треугольник\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Треугольник\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Треугольник\Triangle\Triangle\bin\Debug\Triangle.exe.config
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Треугольник\Triangle\Triangle\bin\Debug\Triangle.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Треугольник\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Треугольник\Triangle\Triangle\obj\Debug\Triangle.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Треугольник\Triangle\Triangle\obj\Debug\Triangle.pdb

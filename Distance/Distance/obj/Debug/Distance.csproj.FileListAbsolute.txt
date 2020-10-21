@@ -1,0 +1,7 @@
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Distance\Distance\bin\Debug\Distance.exe.config
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Distance\Distance\bin\Debug\Distance.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Distance\Distance\bin\Debug\Distance.pdb
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Distance\Distance\obj\Debug\Distance.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Distance\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Distance\Distance\obj\Debug\Distance.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab02\Distance\Distance\obj\Debug\Distance.pdb
