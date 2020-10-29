@@ -39,7 +39,7 @@ namespace Triangle_2
                 return 0;
             }
         }
-        public static double Square(double a)
+        public static double Geron(double a)
         {
             double P = a * 3;
             double pp = P / 2;

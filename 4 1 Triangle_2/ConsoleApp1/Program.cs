@@ -18,7 +18,7 @@ namespace Triangle_2
                     
                         Console.WriteLine("Введите значение стороны треугольника:");
                         double n = double.Parse(Console.ReadLine());
-                        double S = Operation.Square(n);
+                        double S = Operation.Geron(n);
                         Console.WriteLine("Площадь ={0}",S);
                    
                 }
