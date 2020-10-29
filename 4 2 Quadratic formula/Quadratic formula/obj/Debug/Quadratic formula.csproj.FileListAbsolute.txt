@@ -1,0 +1,7 @@
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab06\Quadratic formula\Quadratic formula\obj\Debug\Quadratic formula.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab06\Quadratic formula\Quadratic formula\obj\Debug\Quadratic formula.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab06\Quadratic formula\Quadratic formula\bin\Debug\Quadratic formula.exe.config
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab06\Quadratic formula\Quadratic formula\bin\Debug\Quadratic formula.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab06\Quadratic formula\Quadratic formula\bin\Debug\Quadratic formula.pdb
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab06\Quadratic formula\Quadratic formula\obj\Debug\Quadratic formula.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab06\Quadratic formula\Quadratic formula\obj\Debug\Quadratic formula.pdb

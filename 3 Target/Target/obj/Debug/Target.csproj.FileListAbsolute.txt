@@ -1,0 +1,7 @@
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab04\Target\Target\bin\Debug\Target.exe.config
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab04\Target\Target\bin\Debug\Target.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab04\Target\Target\bin\Debug\Target.pdb
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab04\Target\Target\obj\Debug\Target.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab04\Target\Target\obj\Debug\Target.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab04\Target\Target\obj\Debug\Target.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab04\Target\Target\obj\Debug\Target.pdb
