@@ -1,0 +1,7 @@
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab08\Book\Book\obj\Debug\Book.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab08\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab08\Book\Book\bin\Debug\Book.exe.config
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab08\Book\Book\bin\Debug\Book.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab08\Book\Book\bin\Debug\Book.pdb
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab08\Book\Book\obj\Debug\Book.exe
+D:\Ольга\Программирование ИТМО\C#\Labs\Lab08\Book\Book\obj\Debug\Book.pdb
