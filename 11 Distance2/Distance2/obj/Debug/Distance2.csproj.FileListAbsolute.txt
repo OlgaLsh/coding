@@ -1,0 +1,7 @@
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\Distance2\Distance2\bin\Debug\Distance2.exe.config
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\Distance2\Distance2\bin\Debug\Distance2.exe
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\Distance2\Distance2\bin\Debug\Distance2.pdb
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\Distance2\Distance2\obj\Debug\Distance2.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\Distance2\Distance2\obj\Debug\Distance2.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\Distance2\Distance2\obj\Debug\Distance2.exe
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\Distance2\Distance2\obj\Debug\Distance2.pdb

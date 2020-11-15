@@ -1,0 +1,7 @@
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\123\Shape\Shape\bin\Debug\Shape.exe.config
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\123\Shape\Shape\bin\Debug\Shape.exe
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\123\Shape\Shape\bin\Debug\Shape.pdb
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\123\Shape\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\123\Shape\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\123\Shape\Shape\obj\Debug\Shape.exe
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\123\Shape\Shape\obj\Debug\Shape.pdb

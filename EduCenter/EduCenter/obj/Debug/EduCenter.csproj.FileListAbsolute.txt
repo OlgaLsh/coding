@@ -1,0 +1,7 @@
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\EduCenter\EduCenter\obj\Debug\EduCenter.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\EduCenter\EduCenter\obj\Debug\EduCenter.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\EduCenter\EduCenter\bin\Debug\EduCenter.exe.config
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\EduCenter\EduCenter\bin\Debug\EduCenter.exe
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\EduCenter\EduCenter\bin\Debug\EduCenter.pdb
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\EduCenter\EduCenter\obj\Debug\EduCenter.exe
+D:\Ольга\Программирование ИТМО\C#\Checking\Checking\EduCenter\EduCenter\obj\Debug\EduCenter.pdb
