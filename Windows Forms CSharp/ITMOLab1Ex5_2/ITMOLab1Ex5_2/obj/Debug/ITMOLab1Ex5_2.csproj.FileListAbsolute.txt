@@ -1,0 +1,11 @@
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\bin\Debug\ITMOLab1Ex5_2.exe.config
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\bin\Debug\ITMOLab1Ex5_2.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\bin\Debug\ITMOLab1Ex5_2.pdb
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\obj\Debug\ITMOLab1Ex5_2.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\obj\Debug\ITMOLab1Ex5_2.ChildForm.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\obj\Debug\ITMOLab1Ex5_2.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\obj\Debug\ITMOLab1Ex5_2.StartForm.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\obj\Debug\ITMOLab1Ex5_2.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\obj\Debug\ITMOLab1Ex5_2.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\obj\Debug\ITMOLab1Ex5_2.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Упражнение5\ITMOLab1Ex5_2\ITMOLab1Ex5_2\obj\Debug\ITMOLab1Ex5_2.pdb
