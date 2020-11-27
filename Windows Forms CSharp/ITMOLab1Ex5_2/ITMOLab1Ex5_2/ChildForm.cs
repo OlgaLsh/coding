@@ -31,6 +31,7 @@ new System.Drawing.Drawing2D.GraphicsPath();
 
         private void button1_Click(object sender, EventArgs e)
         {
+           
             this.Close();
         }
     }

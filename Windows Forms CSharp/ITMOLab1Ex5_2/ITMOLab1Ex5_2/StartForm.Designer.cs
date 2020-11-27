@@ -33,7 +33,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(286, 185);
+            this.button1.Location = new System.Drawing.Point(702, 365);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(197, 62);
             this.button1.TabIndex = 0;
@@ -46,7 +46,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1224, 676);
             this.Controls.Add(this.button1);
             this.Name = "StartForm";
             this.RightToLeftLayout = true;
