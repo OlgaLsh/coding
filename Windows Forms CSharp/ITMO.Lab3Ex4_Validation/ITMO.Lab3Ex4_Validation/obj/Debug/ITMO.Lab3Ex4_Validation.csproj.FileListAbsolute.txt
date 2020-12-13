@@ -1,0 +1,11 @@
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\obj\Debug\ITMO.Lab3Ex4_Validation.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\obj\Debug\ITMO.Lab3Ex4_Validation.Form1.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\obj\Debug\ITMO.Lab3Ex4_Validation.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\obj\Debug\ITMO.Lab3Ex4_Validation.UserControlPerson.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\obj\Debug\ITMO.Lab3Ex4_Validation.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\obj\Debug\ITMO.Lab3Ex4_Validation.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\bin\Debug\ITMO.Lab3Ex4_Validation.exe.config
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\bin\Debug\ITMO.Lab3Ex4_Validation.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\bin\Debug\ITMO.Lab3Ex4_Validation.pdb
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\obj\Debug\ITMO.Lab3Ex4_Validation.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб3\ITMO.Lab3Ex4_Validation\ITMO.Lab3Ex4_Validation\obj\Debug\ITMO.Lab3Ex4_Validation.pdb
