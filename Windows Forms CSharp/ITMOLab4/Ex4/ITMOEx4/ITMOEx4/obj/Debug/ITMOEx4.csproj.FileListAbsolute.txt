@@ -1,0 +1,11 @@
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\bin\Debug\ITMOEx4.exe.config
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\bin\Debug\ITMOEx4.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\bin\Debug\ITMOEx4.pdb
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\obj\Debug\ITMOEx4.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\obj\Debug\ITMOEx4.Form1.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\obj\Debug\ITMOEx4.Form2.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\obj\Debug\ITMOEx4.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\obj\Debug\ITMOEx4.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\obj\Debug\ITMOEx4.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\obj\Debug\ITMOEx4.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\ITMOlab4\Ex4\ITMOEx4\ITMOEx4\obj\Debug\ITMOEx4.pdb

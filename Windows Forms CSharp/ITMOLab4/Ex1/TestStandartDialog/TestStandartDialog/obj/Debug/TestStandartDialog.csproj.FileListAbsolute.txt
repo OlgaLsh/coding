@@ -1,0 +1,10 @@
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\ДЗ\Лаб4\Ex1\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
