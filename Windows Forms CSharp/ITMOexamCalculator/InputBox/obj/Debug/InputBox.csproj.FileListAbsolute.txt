@@ -1,0 +1,16 @@
+c:\users\евгений\documents\visual studio 2010\Projects\InputBox\InputBox\bin\Debug\InputBox.dll
+c:\users\евгений\documents\visual studio 2010\Projects\InputBox\InputBox\bin\Debug\InputBox.pdb
+c:\users\евгений\documents\visual studio 2010\Projects\InputBox\InputBox\obj\Debug\ResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2010\Projects\InputBox\InputBox\obj\Debug\InputBox.dll
+c:\users\евгений\documents\visual studio 2010\Projects\InputBox\InputBox\obj\Debug\InputBox.pdb
+C:\Users\thedr\Downloads\InputBox\InputBox\bin\Debug\InputBox.dll
+C:\Users\thedr\Downloads\InputBox\InputBox\bin\Debug\InputBox.pdb
+C:\Users\thedr\Downloads\InputBox\InputBox\obj\Debug\InputBox.csproj.CoreCompileInputs.cache
+C:\Users\thedr\Downloads\InputBox\InputBox\obj\Debug\InputBox.dll
+C:\Users\thedr\Downloads\InputBox\InputBox\obj\Debug\InputBox.pdb
+C:\Users\oljus\OneDrive\ИТМО\!Code\InputBox\InputBox\bin\Debug\InputBox.dll
+C:\Users\oljus\OneDrive\ИТМО\!Code\InputBox\InputBox\bin\Debug\InputBox.pdb
+C:\Users\oljus\OneDrive\ИТМО\!Code\InputBox\InputBox\obj\Debug\InputBox.csprojAssemblyReference.cache
+C:\Users\oljus\OneDrive\ИТМО\!Code\InputBox\InputBox\obj\Debug\InputBox.csproj.CoreCompileInputs.cache
+C:\Users\oljus\OneDrive\ИТМО\!Code\InputBox\InputBox\obj\Debug\InputBox.dll
+C:\Users\oljus\OneDrive\ИТМО\!Code\InputBox\InputBox\obj\Debug\InputBox.pdb

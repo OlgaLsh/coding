@@ -1,0 +1,7 @@
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\bin\Release\CalculatorEngine.dll
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Release\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Release\CalculatorEngine.dll
+C:\Users\oljus\OneDrive\ИТМО\repos\ITMO\CSWindowsForms\ITMO.CSWindowsForms.Calculator\CalculatorEngine\bin\Release\CalculatorEngine.dll
+C:\Users\oljus\OneDrive\ИТМО\repos\ITMO\CSWindowsForms\ITMO.CSWindowsForms.Calculator\CalculatorEngine\obj\Release\CalculatorEngine.csprojAssemblyReference.cache
+C:\Users\oljus\OneDrive\ИТМО\repos\ITMO\CSWindowsForms\ITMO.CSWindowsForms.Calculator\CalculatorEngine\obj\Release\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\oljus\OneDrive\ИТМО\repos\ITMO\CSWindowsForms\ITMO.CSWindowsForms.Calculator\CalculatorEngine\obj\Release\CalculatorEngine.dll
