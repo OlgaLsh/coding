@@ -1,0 +1,15 @@
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\bin\Debug\ITMO.WinForms.PDFReader.5_2.exe.config
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\bin\Debug\ITMO.WinForms.PDFReader.5_2.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\bin\Debug\ITMO.WinForms.PDFReader.5_2.pdb
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\bin\Debug\Interop.AcroPDFLib.dll
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMOLab5Ex2.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\Interop.AcroPDFLib.dll
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMOLab5Ex2.csproj.ResolveComReference.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader._5_2.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMOLab5Ex2.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMOLab5Ex2.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader.5_2.exe
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader.5_2.pdb
+D:\Ольга\Программирование ИТМО\Разработка Windows приложений C#\123\фд\ITMO.WinForms.PDFReader.5_2\obj\Debug\Lab5Ex2.Form1.resources
