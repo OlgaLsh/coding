@@ -1,0 +1,10 @@
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb

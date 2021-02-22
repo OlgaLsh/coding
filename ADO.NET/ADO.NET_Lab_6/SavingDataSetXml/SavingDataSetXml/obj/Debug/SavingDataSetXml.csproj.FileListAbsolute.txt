@@ -1,0 +1,10 @@
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
