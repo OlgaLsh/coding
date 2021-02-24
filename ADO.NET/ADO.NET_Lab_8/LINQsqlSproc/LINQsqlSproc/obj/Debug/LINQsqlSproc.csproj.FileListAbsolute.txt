@@ -1,0 +1,10 @@
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb

@@ -1,0 +1,10 @@
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.pdb
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.exe
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\ДЗ\Лаб8\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.pdb
