@@ -1,0 +1,24 @@
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+D:\Ольга\Программирование ИТМО\Технология ADO.NET\123\lab09\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb

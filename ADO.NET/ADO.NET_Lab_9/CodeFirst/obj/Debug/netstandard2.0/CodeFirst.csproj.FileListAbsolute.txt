@@ -1,0 +1,6 @@
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.deps.json
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.dll
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfoInputs.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfo.cs
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CoreCompileInputs.cache

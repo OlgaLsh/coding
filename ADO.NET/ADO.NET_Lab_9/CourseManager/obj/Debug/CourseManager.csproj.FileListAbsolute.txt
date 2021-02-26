@@ -1,0 +1,17 @@
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\bin\Debug\CourseManager.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\bin\Debug\CourseManager.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.exe
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.pdb
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+C:\Users\Андрей\Documents\ИТМО\ADO.NET\Lab\lab09\CourseManager\obj\Debug\CourseManager.OfficeAssignment.resources
