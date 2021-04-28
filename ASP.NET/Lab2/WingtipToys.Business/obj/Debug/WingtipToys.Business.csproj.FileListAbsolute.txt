@@ -1,0 +1,9 @@
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\bin\Debug\WingtipToys.Business.dll
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\bin\Debug\WingtipToys.Business.pdb
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\bin\Debug\WingtipToys.Data.dll
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\bin\Debug\WingtipToys.Data.pdb
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\obj\Debug\WingtipToys.Business.csprojAssemblyReference.cache
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\obj\Debug\WingtipToys.Business.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\obj\Debug\WingtipToys.Business.csproj.CopyComplete
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\obj\Debug\WingtipToys.Business.dll
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Business\obj\Debug\WingtipToys.Business.pdb

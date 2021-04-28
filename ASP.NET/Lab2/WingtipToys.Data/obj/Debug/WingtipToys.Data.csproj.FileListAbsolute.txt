@@ -1,0 +1,5 @@
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Data\bin\Debug\WingtipToys.Data.dll
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Data\bin\Debug\WingtipToys.Data.pdb
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Data\obj\Debug\WingtipToys.Data.csproj.CoreCompileInputs.cache
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Data\obj\Debug\WingtipToys.Data.dll
+D:\Ольга\Программирование ИТМО\Разработка Web-приложений с использованием технологии ASP.NET\Лабораторные\lab2_task\task\WingtipToys.Data\obj\Debug\WingtipToys.Data.pdb

@@ -1,0 +1,121 @@
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\WingtipToys.dll.config
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\WingtipToys.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\WingtipToys.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Antlr3.Runtime.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\AspNet.ScriptManager.bootstrap.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Elmah.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\EntityFramework.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\EntityFramework.SqlServer.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Newtonsoft.Json.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Owin.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\System.Web.Optimization.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\System.Web.Providers.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\WebGrease.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\System.Web.Optimization.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Antlr3.Runtime.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Newtonsoft.Json.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\EntityFramework.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\EntityFramework.SqlServer.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\System.Web.Providers.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\obj\Debug\WingtipToys.csprojAssemblyReference.cache
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CopyComplete
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\obj\Debug\WingtipToys.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\WingtipToys.Business.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\WingtipToys.Data.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\WingtipToys.Business.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys\bin\WingtipToys.Data.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\obj\Debug\WingtipToys.csprojAssemblyReference.cache
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\obj\Debug\WingtipToys.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\wingtiptoys.mdf
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\wingtiptoys_log.ldf
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WingtipToys.dll.config
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WingtipToys.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WingtipToys.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Antlr3.Runtime.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\AspNet.ScriptManager.bootstrap.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Elmah.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\EntityFramework.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\EntityFramework.SqlServer.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Newtonsoft.Json.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Owin.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\System.Web.Optimization.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\System.Web.Providers.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WebGrease.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WingtipToys.Business.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WingtipToys.Data.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WingtipToys.Business.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WingtipToys.Data.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\WingtipToys.Data.dll.config
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\System.Web.Optimization.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Antlr3.Runtime.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Newtonsoft.Json.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\EntityFramework.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\EntityFramework.SqlServer.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Core.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\System.Web.Providers.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Facebook.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Cookies.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Google.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.Twitter.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CopyComplete

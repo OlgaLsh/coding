@@ -1,0 +1,24 @@
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Business.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Business.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Data.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Data.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.csprojAssemblyReference.cache
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.csproj.CopyComplete
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.dll
+S:\Обучение программированию\ASP.NET\Практика\Task2-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.csprojAssemblyReference.cache
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\wingtiptoys.mdf
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\wingtiptoys_log.ldf
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Business.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Business.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Data.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\EntityFramework.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Data.pdb
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\WingtipToys.Data.dll.config
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\EntityFramework.xml
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\bin\Debug\ru\EntityFramework.resources.dll
+S:\Обучение программированию\ASP.NET\Практика\Task 2, 3, 4-WingTipToys\WingtipToys.Business\obj\Debug\WingtipToys.Business.csproj.CopyComplete
