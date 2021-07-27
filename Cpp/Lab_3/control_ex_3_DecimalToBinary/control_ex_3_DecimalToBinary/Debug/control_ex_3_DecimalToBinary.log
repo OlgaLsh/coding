@@ -1,0 +1,3 @@
+﻿  control_ex_3_DecimalToBinary.cpp
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_3\control_ex_3_DecimalToBinary\control_ex_3_DecimalToBinary\control_ex_3_DecimalToBinary.cpp(21): warning C4715: DecToBin: значение возвращается не при всех путях выполнения
+  control_ex_3_DecimalToBinary.vcxproj -> D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_3\control_ex_3_DecimalToBinary\Debug\control_ex_3_DecimalToBinary.exe

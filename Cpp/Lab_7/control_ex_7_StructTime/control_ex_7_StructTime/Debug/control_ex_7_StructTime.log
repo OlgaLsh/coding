@@ -1,0 +1,4 @@
+﻿  control_ex_7_StructTime.cpp
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_7\control_ex_7_StructTime\control_ex_7_StructTime\control_ex_7_StructTime.cpp(35,26): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_7\control_ex_7_StructTime\control_ex_7_StructTime\control_ex_7_StructTime.cpp(39,26): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  control_ex_7_StructTime.vcxproj -> D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_7\control_ex_7_StructTime\Debug\control_ex_7_StructTime.exe

@@ -1,0 +1,4 @@
+﻿  control_ex_3_Roots.cpp
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_3\control_ex_3_Roots\control_ex_3_Roots\control_ex_3_Roots.cpp(30,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_3\control_ex_3_Roots\control_ex_3_Roots\control_ex_3_Roots.cpp(31,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  control_ex_3_Roots.vcxproj -> D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_3\control_ex_3_Roots\Debug\control_ex_3_Roots.exe
