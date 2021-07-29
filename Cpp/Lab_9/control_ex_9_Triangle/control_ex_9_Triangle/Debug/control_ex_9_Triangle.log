@@ -1,0 +1,7 @@
+﻿  control_ex_9_Triangle.cpp
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_9\control_ex_9_Triangle\control_ex_9_Triangle\control_ex_9_Triangle.cpp(13,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_9\control_ex_9_Triangle\control_ex_9_Triangle\control_ex_9_Triangle.cpp(13,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_9\control_ex_9_Triangle\control_ex_9_Triangle\control_ex_9_Triangle.cpp(13,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  triangle.cpp
+  Создание кода...
+  control_ex_9_Triangle.vcxproj -> D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_9\control_ex_9_Triangle\Debug\control_ex_9_Triangle.exe
