@@ -1,0 +1,15 @@
+﻿  control_ex_14_Template.cpp
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,18): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,112): warning C4305: инициализация: усечение из "__int64" в "long"
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,18): warning C4309: инициализация: усечение константного значения
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,33): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,33): warning C4309: инициализация: усечение константного значения
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,49): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,49): warning C4309: инициализация: усечение константного значения
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,64): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,64): warning C4309: инициализация: усечение константного значения
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,79): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,79): warning C4309: инициализация: усечение константного значения
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,96): warning C4838: Преобразование из "__int64" в "long" требует сужающего преобразования.
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\control_ex_14_Template\control_ex_14_Template.cpp(19,96): warning C4309: инициализация: усечение константного значения
+  control_ex_14_Template.vcxproj -> D:\Ольга\Программирование ИТМО\C++\ДЗ\Lab_14\control_ex_14_Template\Debug\control_ex_14_Template.exe
