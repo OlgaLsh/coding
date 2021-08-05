@@ -1,0 +1,5 @@
+﻿  Final.cpp
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Final\Final\Final\Interface.h(54,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Final\Final\Final\Interface.h(68,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+D:\Ольга\Программирование ИТМО\C++\ДЗ\Final\Final\Final\Interface.h(82,21): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Final.vcxproj -> D:\Ольга\Программирование ИТМО\C++\ДЗ\Final\Final\Debug\Final.exe
