@@ -23,6 +23,7 @@ namespace Main
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = Locator.TryGet<ViewModels.MainViewModel>();
         }
     }
 }

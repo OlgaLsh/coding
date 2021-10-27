@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Autofac;
 using Models;
 using Main.ViewModels;
+using Main.Services;
 
 namespace Main
 {
@@ -17,14 +18,26 @@ namespace Main
         public static void Init()
         {
             var builder = new Autofac.ContainerBuilder();
+            // ViewModels
 
             builder.RegisterType<AutorizeViewModel>();
 
+            builder.RegisterType<RegisterViewModel>();
+
+            builder.RegisterType<MainViewModel>();
+
+            builder.RegisterType<TipViewModel>();
+
+            // Services
+            builder.RegisterInstance<CurrentUserService>(new CurrentUserService());
+
             builder.RegisterType<TrackContext>();
+
+            builder.RegisterType<TipService>();
 
             container = builder.Build();
         }
-
+        public static T TryGet<T>() => container.Resolve<T>();
 
 
     }

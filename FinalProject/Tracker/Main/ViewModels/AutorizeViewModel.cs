@@ -7,20 +7,23 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
+using Main.Commands;
+using Main.Services;
+using Main.Views;
+
 
 namespace Main.ViewModels
 {
     public class AutorizeViewModel
     {
+        private readonly CurrentUserService userService;
         private string login;
         private PasswordBox password = new PasswordBox();
 
-        public AutorizeViewModel()
+        public AutorizeViewModel(CurrentUserService userService)
         {
-
+            this.userService = userService;
         }
-
-
         public string Login
         {
             get => login;
@@ -29,8 +32,6 @@ namespace Main.ViewModels
                 login = value;
             }
         }
-
-
         public PasswordBox Password
         {
             get => password;
@@ -38,18 +39,34 @@ namespace Main.ViewModels
             {
                 password = value;
             }
-
         }
 
-       // public ICommand EnterCommand { get; } = new Command(() =>
-       // {
-        //    using (TrackContext context = new TrackContext())
-        //    {
-        //        string pass = Password.Password;
-                //найти пользователя с логином и паролем
-       //     }
-       // });
+        public ICommand EnterCommand => new Command(obj =>
+        {
+            if (obj is Window wind)
+            {
+                if (userService.TryAutorize(login, Password.Password))
+                {
+                    App.Current.MainWindow = new MainWindow();
 
+                    wind.Close();
+                    App.Current.MainWindow.Show();
+                }
+            }
+        }, obj => Login != null && Password != null && Password.Password != null && Login.Length > 2
+        && Password.Password.Length > 2);
+
+
+        public ICommand ToRegister => new Command(x =>
+        {
+            if (x is Window wind)
+            {
+
+                App.Current.MainWindow = new RegisterView();
+                wind.Close();
+                App.Current.MainWindow.Show();
+            }
+        });
     }
 }
 

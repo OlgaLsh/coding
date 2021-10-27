@@ -11,7 +11,7 @@ namespace Models
     public class TrackContext:DbContext
 
     {
-        public TrackContext(): base("TrackerDb")
+        public TrackContext(): base("Data Source=LAPTOP-ERGTETKJ\\SQLEXPRESS;Initial Catalog=TrackerDb;Integrated Security=True")
         {
 
         }

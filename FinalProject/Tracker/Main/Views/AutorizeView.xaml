@@ -6,9 +6,10 @@
         xmlns:local="clr-namespace:Main.Views"
         xmlns:viewmodels="clr-namespace:Main.ViewModels"
         mc:Ignorable="d"
+        x:Name="window"
         d:DataContext="{d:DesignInstance Type=viewmodels:AutorizeViewModel}"
         Title="AutorizeView" Height="457.5" Width="397.812">
-    <Grid Background="#FFE0F6B4">
+    <Grid Background="#a8e4a0">
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" >
             <TextBlock Text="Login"/>
             <TextBox Margin="0 5 0 0"
@@ -18,7 +19,13 @@
             <ContentControl Margin="0 5 0 0" Height="24" Content="{Binding Password, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="220"/>
 
 
-            <Button Command="{Binding EnterCommand}" Content="Enter" Margin="0 10" Padding="0 5"/>
+            <Button 
+                CommandParameter="{Binding ElementName=window}"
+                Command="{Binding EnterCommand}" Content="Enter" Background="#03c03c" Margin="0 10" Padding="0 5"/>
+
+            <Button 
+                CommandParameter="{Binding ElementName=window}"
+                Command="{Binding ToRegister}" Content="Register" Background="#03c03c" Margin="0 10" Padding="0 5"/>
         </StackPanel>
 
     </Grid>

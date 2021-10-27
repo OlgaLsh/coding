@@ -1,11 +1,13 @@
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Application.exe.config
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Application.exe
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Application.pdb
+D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Autofac.dll
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\EntityFramework.dll
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\EntityFramework.SqlServer.dll
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Models.dll
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Models.pdb
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Models.dll.config
+D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Autofac.xml
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\EntityFramework.xml
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\EntityFramework.SqlServer.xml
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\obj\Debug\Application.csproj.AssemblyReference.cache
@@ -13,5 +15,3 @@ D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tra
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\obj\Debug\Application.csproj.CopyComplete
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\obj\Debug\Application.exe
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\obj\Debug\Application.pdb
-D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Autofac.dll
-D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Application\bin\Debug\Autofac.xml

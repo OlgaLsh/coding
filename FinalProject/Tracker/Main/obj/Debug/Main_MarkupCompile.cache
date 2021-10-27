@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Main\App.xaml
-2-933289829
+5-779746206
 
-8-1493435945
-15722810216
-MainWindow.xaml;Views\AutorizeView.xaml;
+20-1287938809
+19-1096869471
+Converters\Converter.xaml;MainWindow.xaml;Views\AutorizeView.xaml;Views\RegisterView.xaml;Views\TipView.xaml;
 
 False
 

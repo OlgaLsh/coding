@@ -24,7 +24,7 @@ namespace Main.Views
         public AutorizeView()
         {
             InitializeComponent();
-            DataContext = new AutorizeViewModel();
+            DataContext = Locator.TryGet<AutorizeViewModel>();
         }
     }
 }
