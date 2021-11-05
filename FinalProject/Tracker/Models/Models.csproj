@@ -63,6 +63,10 @@
     <Compile Include="Migrations\202110191504266_init1.designer.cs">
       <DependentUpon>202110191504266_init1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202111051240526_UP_ID.cs" />
+    <Compile Include="Migrations\202111051240526_UP_ID.designer.cs">
+      <DependentUpon>202111051240526_UP_ID.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Tip.cs" />
     <Compile Include="Models\User.cs" />
@@ -89,6 +93,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202110191504266_init1.resx">
       <DependentUpon>202110191504266_init1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202111051240526_UP_ID.resx">
+      <DependentUpon>202111051240526_UP_ID.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

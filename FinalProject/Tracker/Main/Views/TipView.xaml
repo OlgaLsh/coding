@@ -5,30 +5,72 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Main.Views"
         mc:Ignorable="d"
-        Title="TipView" Height="400" Width="600">
+        xmlns:vm="clr-namespace:Main.ViewModels"
+        d:DataContext="{d:DesignInstance Type=vm:TipViewModel}"
+        Title="Выбор привычки" Height="180" Width="400">
     <Grid Background="#a8e4a0">
+        
         <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition Height="70"/>
+            <RowDefinition />
+            <RowDefinition Height="40" />
         </Grid.RowDefinitions>
-        <StackPanel Margin="20 20">
-            
-        </StackPanel>
-        <DockPanel>
-            <TextBlock DockPanel.Dock="Top" Text="Choose your tip in the list below:" Margin="10 10" FontSize="20"/>
-            <ComboBox SelectedItem="{Binding Selected}"
+        
+
+        <StackPanel Visibility="{Binding IsNewTip, Converter={StaticResource BoolToVisInvert}}" Margin="20 10">
+
+            <DockPanel>
+                <TextBlock DockPanel.Dock="Top" Text="Выберите привычку"/>
+                <ComboBox SelectedItem="{Binding Selected}"
                           DockPanel.Dock="Top"
                           DisplayMemberPath="Name"
-                          ItemsSource="{Binding Tips, UpdateSourceTrigger=PropertyChanged}" Margin="1,5,-0.4,1" Height="39" />
+                          ItemsSource="{Binding Tips, UpdateSourceTrigger=PropertyChanged}" Margin="0 5 0 0" />
 
-            <TextBlock Margin="10 10"
+                <TextBlock Margin="0 10"
                            TextWrapping="Wrap"
                            Text="{Binding Selected.Description}"/>
 
-        </DockPanel>
-        <Rectangle Grid.Row="1" Fill="#03c03c"/>
-        <Button Content="Choose tip" 
+            </DockPanel>
+
+        </StackPanel>
+
+        <StackPanel Visibility="{Binding IsNewTip, Converter={StaticResource BoolToVis}}" Margin="20 10">
+
+            <DockPanel>
+                <TextBlock DockPanel.Dock="Top" Text="Введите название привычки:"/>
+                <TextBox Text="{Binding Selected.Name, UpdateSourceTrigger=PropertyChanged}"
+                          DockPanel.Dock="Top"
+                         Margin="0 5 0 0" />
+
+
+            </DockPanel>
+
+            <DockPanel Margin="0 5">
+
+                <TextBlock DockPanel.Dock="Top" Text="Введите описание привычки:"/>
+                <TextBox Text="{Binding Selected.Description, UpdateSourceTrigger=PropertyChanged}"
+                         Height="50"
+                          DockPanel.Dock="Top"
+                         Margin="0 5 0 0" />
+            </DockPanel>
+
+        </StackPanel>
+
+
+        <Rectangle Grid.Row="1" Fill="#a8e4a0"/> 
+
+
+
+        <CheckBox
+            Grid.Row="1"
+            VerticalAlignment="Center"
+            Margin="10 0 0 0"
+            Content="Добавить новую" FontWeight="Bold" IsChecked="{Binding IsNewTip, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Button Content="Выбрать" 
+                Background="#03c03c" 
+                FontWeight="Bold"
                 Click="Button_Click"
-                Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="25 10" FontSize="25" Background="#a8e4a0" />
+                Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="25 5" />
+
     </Grid>
 </Window>

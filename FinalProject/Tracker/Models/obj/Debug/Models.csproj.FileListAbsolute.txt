@@ -9,6 +9,7 @@ D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tra
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Models\bin\Debug\EntityFramework.SqlServer.xml
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Models\obj\Debug\Models.Migrations.init.resources
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Models\obj\Debug\Models.Migrations.init1.resources
+D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Models\obj\Debug\Models.Migrations.UP_ID.resources
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Models\obj\Debug\Models.csproj.GenerateResource.cache
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 D:\Ольга\Программирование ИТМО\Диплом\Tracker\Tracker\Models\obj\Debug\Models.csproj.CopyComplete

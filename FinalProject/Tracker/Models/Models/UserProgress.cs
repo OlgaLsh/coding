@@ -10,12 +10,9 @@ namespace Models.Models
 {
     public class UserProgress
     {
-        [Key]
-        [Column(Order =1)]
+        public int Id { get; set; }
         public int UserId { get; set; }
 
-        [Key]
-        [Column(Order = 2)]
         public int TipId { get; set; }
 
         public DateTime DateTime { get; set; }

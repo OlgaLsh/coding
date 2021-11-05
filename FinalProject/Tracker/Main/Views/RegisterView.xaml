@@ -8,32 +8,37 @@
         mc:Ignorable="d"
         x:Name="wind"
         d:DataContext="{d:DesignInstance Type=viewmodels:RegisterViewModel}"
-        Title="RegisterView" Height="450" Width="800">
+        Title="Регистрация" Height="460" Width="400">
     <Grid Background="#a8e4a0">
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" >
-            <TextBlock Text="Name"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="47*"/>
+            <ColumnDefinition Width="150*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="59,62,58.6,61.4" >
+            <TextBlock Text="Введите имя:"  FontSize="15"/>
             <TextBox Margin="0 5 0 0"
                      Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}"
                      Height="24" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
-            <TextBlock Text="Last name"/>
+            <TextBlock Text="Введите фамилию:" FontSize="15"/>
             <TextBox Margin="0 5 0 0"
                      Text="{Binding LastName, UpdateSourceTrigger=PropertyChanged}"
                      Height="24" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
-            <TextBlock Text="Login"/>
+            <TextBlock Text="Придумайте логин (более 3 символов)" FontSize="15"/>
             <TextBox Margin="0 5 0 0"
                      Text="{Binding Login, UpdateSourceTrigger=PropertyChanged}"
                      Height="24" TextWrapping="Wrap" VerticalAlignment="Top" Width="220"/>
-            <TextBlock Margin="0 10 0 0" Text="Password"/>
+            <TextBlock Margin="0 10 0 0" Text="Придумайте пароль (более 2 символов)" FontSize="15"/>
             <ContentControl Margin="0 5 0 0" Height="24" Content="{Binding Password, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="220"/>
 
 
             <Button 
                 CommandParameter="{Binding ElementName=wind}"
-                Command="{Binding Register}" Content="Register" Background="#03c03c" Margin="0 10" Padding="0 5"/>
+                Command="{Binding Register}" Content="Регистрация" Background="#edff21" FontWeight="Bold" Margin="0 10" Padding="0 5" FontSize="15"/>
             <Button 
                 CommandParameter="{Binding ElementName=wind}"
-                Command="{Binding ToAutorize}" Content="Back to authorization" Background="#03c03c" Margin="0 10" Padding="0 5"/>
+                Command="{Binding ToAutorize}" Content="Назад" Background="#03c03c" FontWeight="Bold" Margin="0 10" Padding="0 5" FontSize="15" Width="84"/>
         </StackPanel>
+       
 
     </Grid>
 </Window>

@@ -21,19 +21,16 @@ namespace Main
             // ViewModels
 
             builder.RegisterType<AutorizeViewModel>();
-
             builder.RegisterType<RegisterViewModel>();
-
             builder.RegisterType<MainViewModel>();
-
             builder.RegisterType<TipViewModel>();
+            builder.RegisterType<AllProgressViewModel>();
 
             // Services
             builder.RegisterInstance<CurrentUserService>(new CurrentUserService());
-
             builder.RegisterType<TrackContext>();
-
             builder.RegisterType<TipService>();
+            builder.RegisterType<UserProgressService>();
 
             container = builder.Build();
         }

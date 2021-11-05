@@ -5,23 +5,36 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Main"
         mc:Ignorable="d"
+        x:Name="wind"
         xmlns:viewmodels="clr-namespace:Main.ViewModels"
         d:DataContext="{d:DesignInstance Type=viewmodels:MainViewModel}"
-        Title="MainWindow" Height="500" Width="600">
+        Title="Ваши привычки" Height="450" Width="800">
     <Grid Background="#a8e4a0">
         <Grid.RowDefinitions>
             <RowDefinition />
             <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
 
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+
         <StackPanel Margin="15 10">
 
 
-            <TextBlock Text="My ecological tips for everyday: " FontSize="24"/>
+            <DockPanel>
+
+                <TextBlock DockPanel.Dock="Right" FontWeight="Bold" FontSize="20">
+                    <Run Text="Сегодня:"/>
+                    <Run Text="{Binding Today, StringFormat=dd.MM.yyyy, Mode=OneWay}"/>
+                </TextBlock>
+                <TextBlock Text="Мои экологические привычки: " FontWeight="Bold" FontSize="24"/>
+            </DockPanel>
+
 
             <ItemsControl 
                 Margin="0 20 0 0"
-                Visibility="{Binding IsTipsNotEmpty, Converter={StaticResource BoolToVis}}" 
                 ItemsSource="{Binding UserTips}">
 
                 <ItemsControl.ItemTemplate>
@@ -37,19 +50,42 @@
 
             </ItemsControl>
 
-            <Button HorizontalAlignment="Center"
+
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+
+                <Button HorizontalAlignment="Center"
                     Padding="25 3"
                     Command="{Binding SaveCommand}"
-                    Content="Save"
-                    Background="#03c03c" FontSize="24"/>
+                        Background="#03c03c" 
+                        FontWeight="Bold"
+                    Content="Сохранить прогресс"/>
+
+                <Button HorizontalAlignment="Center"
+                    Padding="25 3"
+                        Margin="15 0 0 0"
+                    Command="{Binding ViewProgressCommand}"
+                        Background="#03c03c" 
+                        FontWeight="Bold"
+                    Content="Просмотр прогресса"/>
+            </StackPanel>
+
         </StackPanel>
 
+        <Button Content="Выход" Grid.Column="1"
+                Background="#e34234" 
+                FontWeight="Bold"
+                Margin="0 10"
+                Command="{Binding ExitCommand}"
+                CommandParameter="{Binding ElementName=wind}"
+                VerticalAlignment="Top" HorizontalAlignment="Center" Padding="25 3"/>
 
         <Button Command="{Binding AddTipCommand}" Grid.Row="1" 
                 Padding="30 5"
                 HorizontalAlignment="Center"
                 VerticalAlignment="Center"
-                Content="Choose a tip" Background="#03c03c" FontSize="25"/>
+                Background="#03c03c"
+                FontWeight="Bold"
+                Content="Добавить привычку"/>
 
     </Grid>
 </Window>

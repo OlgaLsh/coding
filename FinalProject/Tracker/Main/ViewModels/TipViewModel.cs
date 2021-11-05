@@ -1,13 +1,13 @@
-﻿using System;
+﻿using Main.Commands;
+using Main.Services;
+using Main.Views;
+using Models.Models;
+using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Models;
-using Models.Models;
-using Main.Commands;
-using Main.Services;
-using System.Collections.ObjectModel;
 using System.Windows;
 using System.Windows.Input;
 
@@ -17,6 +17,7 @@ namespace Main.ViewModels
     {
         private readonly TipService tipService;
         private readonly CurrentUserService userService;
+        private bool isNewTip;
 
         public ObservableCollection<Tip> Tips { get; private set; }
 
@@ -36,8 +37,24 @@ namespace Main.ViewModels
             }
             else
             {
-                MessageBox.Show("Пройдите авторизацию!", "", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Пользователь не авторизован", "", MessageBoxButton.OK, MessageBoxImage.Error);
+                //var current = App.Current.MainWindow;
 
+                //App.Current.MainWindow = new AutorizeView();
+                //App.Current.MainWindow.Show();
+                //current.Close();
+
+            }
+        }
+
+        public bool IsNewTip
+        {
+            get => isNewTip;
+            set
+            {
+                isNewTip = value;
+                if (value && Selected == null)
+                    Selected = new Tip();
             }
         }
 
